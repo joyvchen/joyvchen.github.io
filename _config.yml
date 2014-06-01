@@ -2,7 +2,7 @@ title:            Joy Chen
 tagline:          
 description:      The personal site of Joy Chen.
 #Comment out url when working locally to resolve base urls correctly
-url: http://joyvchen.github.io
+baseurl: http://joyvchen.github.io
 
 # Owner/author information
 owner:
