@@ -1,61 +1,22 @@
-title:            Joy Chen
-tagline:          
-description:      The personal website of Joy Chen.
-#Comment out url when working locally to resolve base urls correctly
-# url: http://joyvchen.github.io
+# Dependencies
+markdown:         redcarpet
+pygments:         true
 
-# Owner/author information
-owner:
-  name:           Joy Chen
-  avatar:         avatar.png
-  bio:            "Always exploring."
-  email:          chenjoyv@gmail.com
-  twitter:        chenjoyv        
-  github:         joyvchen       
-  instagram:      jeyohwhy     
-  dribbble:       
-  disqus:         
-  location:       "New York, NY"
-  # Plug in your disqus shortname!
+# Permalinks
+permalink:        pretty
 
-tools:
-  standards:      "HTML, SCSS, Jekyll"
-  software:       "git"
+# Setup
+title:            Poole
+tagline:          The Jekyll Butler
+url:              http://getpoole.com
+paginate:         1
+baseurl:          /
+author:
+  name:           Mark Otto
+  url:            https://twitter.com/mdo
+  email:          markdotto@gmail.com
 
-# Links to include in top navigation
-# For external links add external: true
-links:
-  - title: About
-    url: /about
-  - title: Github
-    url: https://github.com/joyvchen
-    external: true
-  - title: Elsewhere
-    url: http://joyvchen.com
-    external: true
-
-# http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
-timezone:    America/New_York
-future:      true
-pygments:    true
-markdown:    kramdown
-
-kramdown:
-  auto_ids: true
-  footnote_nr: 1
-  entity_output: as_char
-  toc_levels: 1..6
-  use_coderay: false
-
-  coderay:
-    coderay_line_numbers: 
-    coderay_line_numbers_start: 1
-    coderay_tab_width: 4
-    coderay_bold_every: 10
-    coderay_css: class
-
-# https://github.com/mojombo/jekyll/wiki/Permalinks
-permalink:   /:categories/:title
-
-include: [".htaccess"]
-exclude: ["lib", "config.rb", "Capfile", "config", "log", "Rakefile", "Rakefile.rb", "tmp"]
+# Custom vars
+version:          1.0.0
+github:
+  repo:           https://github.com/poole/poole
