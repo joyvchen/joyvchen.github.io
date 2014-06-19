@@ -6,17 +6,20 @@ pygments:         true
 permalink:        pretty
 
 # Setup
-title:            Poole
-tagline:          The Jekyll Butler
-url:              http://getpoole.com
+title:            Joy Chen
+tagline:          'The personal website of Joy Chen'
+url:              http://joyvchen.github.io
 paginate:         1
 baseurl:          /
 author:
-  name:           Mark Otto
-  url:            https://twitter.com/mdo
-  email:          markdotto@gmail.com
+  name:           'Joy Chen'
+  url:            https://twitter.com/chenjoyv
+  email:          chenjoyv@gmail.com
 
 # Custom vars
 version:          1.0.0
 github:
-  repo:           https://github.com/poole/poole
+  repo:           https://github.com/joyvchen
+pages_list:       
+	About:'/about'
+	Archive:'/archive'
