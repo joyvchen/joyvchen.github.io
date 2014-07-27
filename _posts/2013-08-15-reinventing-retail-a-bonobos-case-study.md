@@ -15,7 +15,7 @@ Bonobos excels because it initially focused not on product or on distribution, b
 
 [![](http://payload193.cargocollective.com/1/12/392931/6168283/bonobos_shopping_1.png)](http://lsvp.com/2010/12/16/why-lightspeed-invested-in-bonobos/)
 
-(from [Lightspeed Venture Partners](http://lsvp.com/2010/12/16/why-lightspeed-invested-in-bonobos/))
+<div class="caption">(from <a href="http://lsvp.com/2010/12/16/why-lightspeed-invested-in-bonobos/" target="_blank">Lightspeed Venture Partners</a>)</div><br>
 
 This equation describes male shopping behavior: men primarily seek a great fit and a decent style, though they prefer that time and hassle be minimized. Because of their focus on fit, men will also develop a loyalty to a retailer that offers clothing that fits them well, effectively reducing the time and hassle spent on shopping around. These insights led to an emphasis on perfectly fitting pants that customers could purchase online and have delivered in 1-2 days to their doorstep. By knowing the needs of the customer, Bonobos was then able to then deliver a product tailored exclusively for the customer as well as a number of strategic channels.
 
@@ -41,6 +41,6 @@ Outside of the online/offline Guideshop, Bonobos hasn’t forgotten those who sh
 
 ![](http://payload193.cargocollective.com/1/12/392931/6168283/bonobos_shopping_female.png)
 
-(from [Lightspeed Venture Partners](http://lsvp.com/2010/12/16/why-lightspeed-invested-in-bonobos/))
+<div class="caption">(from <a href="http://lsvp.com/2010/12/16/why-lightspeed-invested-in-bonobos/" target="_blank">Lightspeed Venture Partners</a>)</div><br>
 
 Will Bonobos be able to offer the trends, style, and fit women seek, while maximizing the fun of the experience? There will be more wiggle room, as time and hassle aren't a big problem as long as Bonobos can provide something fashionable (women derive utility from entertainment value and more frequent 'fun' purchases). As a female Millennial, I'm personally quite excited to see how Bonobos will deliver on this challenge. 		
