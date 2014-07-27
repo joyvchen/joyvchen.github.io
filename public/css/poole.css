@@ -73,10 +73,12 @@ a {
 a strong {
   color: inherit;
 }
+
 /* `:focus` is linked to `:hover` for basic accessibility */
 a:hover,
 a:focus {
-  text-decoration: underline;
+  color: #74b7e6;
+  border-bottom: 1px dashed #74b7e6;
 }
 
 /* Headings */
