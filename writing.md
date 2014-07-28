@@ -9,5 +9,5 @@ I think writing is wonderful. Very soon, I will write a meta post about the valu
 ## Archive
 
 {% for post in site.posts %}
-  * [ {{ post.title }} ]({{ post.url }}) - {{ post.date | date_to_string }} {% endfor %}
+ * [ {{ post.title }} ]({{ post.url }})  {{ post.date | date_to_string }}{% endfor %}
 

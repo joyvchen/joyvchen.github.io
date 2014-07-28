@@ -6,7 +6,6 @@ These are reads I am currently enjoying or have finished recently. Most of the t
 
 ## Books
 <div id="BookCovers">
-	<img src="http://ecx.images-amazon.com/images/I/81oKNgpSsSL.jpg" />
 	<img src="http://ecx.images-amazon.com/images/I/41TknOCIZWL._SY344_BO1,204,203,200_.jpg" />
 	<img src="http://media.npr.org/assets/bakertaylor/covers/q/quiet/9780307352149_custom-5b5ce2e8d8a1c22ef8fa885da61cbc226d88337b-s2-c85.jpg" />
 	<img src="https://sites.imsa.edu/acronym/files/2014/04/lean-startup_book-cover.jpeg" />

@@ -20,4 +20,4 @@ author:
 version:          1.0.0
 github:
   repo:           https://github.com/joyvchen
-pages_list:       {'About':'/about','Writing':'/writing','Reading':'/reading'}
+pages_list:       {'About':'/about','Writing':'/writing','Reading':'/reading','Portfolio':'/portfolio'}

@@ -8,7 +8,7 @@ Outside of my work, my current interests are teaching myself to code and long-di
 
 ## About This Site
 
-This site was created with <a href="http://jekyllrb.com" target="_blank">Jekyll</a>, a simple, Ruby-powered static site generator that parses Markdown. It is hosted on <a href="http://pages.github.com" target="_blank">GitHub Pages</a>. (Here's an <a href="/2014/07/18/starting-anew-with-jekyll/">ode</a> I've written on the wonders of Jekyll.) 
+This site was created with <a href="http://jekyllrb.com" target="_blank">Jekyll</a>, a simple, Ruby-powered static site generator that parses Liquid template files and Markdown content. It is hosted on <a href="http://pages.github.com" target="_blank">GitHub Pages</a>. (Here's an <a href="/2014/07/18/starting-anew-with-jekyll/">ode</a> I've written on the wonders of Jekyll.) 
 
 I started this blog because I've kept some form of a journal for as long as I can remember. I believe writing makes you a clearer thinker, and I've always deeply admired those who could express themselves eloquently with the written word.
 

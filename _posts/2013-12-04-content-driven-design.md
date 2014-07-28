@@ -16,7 +16,7 @@ Having worked on countless e-commerce and non-profit organization websites, the 
 
 The Barrel lens of Content-Driven Design posits that a website should have considered the five Content Types – **Story, Product, Social Proof, Thought Leadership, and Conversion** – which together create a complete picture of the organization and its offerings. When proceeding to the design phase, these Content Types are translated into **Content Elements**, or the actual interface pieces (buttons, videos, slideshows, text blocks, modals, etc.) on the website. 
 
-[![Content Elements](/assets/CDD.png)]({{ site.url }}/assets/CDD.png)
+[![Content Elements](/assets/blog/CDD.png)]({{ site.url }}/assets/blog/CDD.png)
 
 A preliminary audit of the Content Types that the client has and that the client lacks will inform what **Content Elements** are designed later. This part is as simple as exploring the current website and taking note of the pages and elements fulfilling each Content Type, then assessing which Content Types the website could use more or less of. We also double check to make sure that a client can sustainably generate necessary content so that we don’t end up with empty shells down the road. Though content goals and needs vary from client to client, we believe a great website will have considered all five content types.
 
