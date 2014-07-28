@@ -261,7 +261,7 @@ img {
 
 #BookCovers img {
   display: inline-block;
-  max-height: 200px;
+  max-height: 185px;
   width: auto;
 }
 
@@ -363,6 +363,8 @@ tbody tr:nth-child(odd) th {
   border-bottom: 1px solid #ccc;
 }
 
+/* Responsive Stuff */
+
 @media screen and (min-width: 768px){
   .rwd-break { display: none; }
 }
@@ -377,6 +379,12 @@ tbody tr:nth-child(odd) th {
 
   html {
     font-size: 110%;
+  }
+
+  #BookCovers img {
+    display: inline-block;
+    max-height: 100px;
+    width: auto;
   }
 }
 
