@@ -364,7 +364,20 @@ tbody tr:nth-child(odd) th {
 }
 
 @media screen and (min-width: 768px){
-    .rwd-break { display: none; }
+  .rwd-break { display: none; }
+}
+
+@media only screen and (min-device-width : 320px) and (max-device-width : 480px) {
+  .masthead-title small a {
+    font-size: 75%;
+    font-weight: 400;
+    letter-spacing: 0;
+    color: #9a9a9a;
+  }
+
+  html {
+    font-size: 90%;
+  }
 }
 
 
