@@ -259,11 +259,26 @@ img {
   text-align: center;
 }
 
+#BookCovers a {
+  border: none;
+}
+
 #BookCovers img {
   display: inline-block;
   max-height: 185px;
   width: auto;
 }
+
+.fade {
+   opacity: 1;
+   transition: opacity .25s ease-in-out;
+   -moz-transition: opacity .25s ease-in-out;
+   -webkit-transition: opacity .25s ease-in-out;
+   }
+
+   .fade:hover {
+      opacity: 0.5;
+      }
 
 /* Tables */
 table {

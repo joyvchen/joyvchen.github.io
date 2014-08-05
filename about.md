@@ -2,9 +2,9 @@
 layout: page
 title: Hey there, I'm Joy. 
 ---
-Michigan born and raised, I now live in NYC working at the intersection of art and technology. I enjoy thinking and learning about product, process, UX, and how to make features that combine form and function for users. I studied art history and French at Yale, so visual storytelling, aesthetics, and research form the basis of my thinking. Previously a digital project manager with a bent for web apps, I'm currently focused on building better tools for organizers of <a href="http://creativemornings.com" target="_blank">CreativeMornings</a>, a globally distributed lecture series for creative types. 
+Michigan born and raised, I now live in NYC working at the intersection of art and technology. Within this space, I enjoy thinking and learning about product, process, UX, and how to make features that combine form and function for users. I studied art history and French at Yale, so visual storytelling, aesthetics, and research form the basis of my thinking. Previously a digital project manager with a bent for web apps, I'm currently focused on building better tools for organizers of <a href="http://creativemornings.com" target="_blank">CreativeMornings</a>, a globally distributed lecture series for creative types. 
 
-Outside of my work, my current interests are teaching myself to code and long-distance running. I'm also an urban/backcountry backpacker, regular art museum goer, and amateur muralist. Finally, I'm a big fan of <a href="https://www.youtube.com/watch?v=ryDOy3AosBw&feature=kp" target="_blank">the 90s</a>. 
+Outside of my work, my current interests are teaching myself to code and long-distance running. I'm also an urban/backcountry backpacker, regular art museum goer, and coffee lover. Finally, I'm a big fan of <a href="https://www.youtube.com/watch?v=ryDOy3AosBw&feature=kp" target="_blank">the 90s</a>. 
 
 ## About This Site
 
