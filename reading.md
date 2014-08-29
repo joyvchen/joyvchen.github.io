@@ -5,16 +5,16 @@ title: Reading
 These are reads I am currently enjoying or have finished recently. Most of the things I like to read are related to tech, design, cities, psychology, arts, culture, productivity, or personal development. In addition to news and industry happenings, I rarely pass up a good piece on gender issues in tech, urbanization/modernization in China, French politics and culture, the Millennial generation, and the evolution of cities.     
 
 ## Books
-<div id="BookCovers">
-	<a href="http://www.goodreads.com/book/show/12609433-the-power-of-habit" target="_blank"><img src="/assets/books/power-of-habit.jpg" class="fade" /></a>
-	<a href="http://www.goodreads.com/book/show/16071764-lean-in" target="_blank"><img src="/assets/books/lean-in.jpg" class="fade" /></a>
-	<a href="http://www.goodreads.com/book/show/8520610-quiet" target="_blank"><img src="/assets/books/quiet.jpg" class="fade" /></a>
-	<a href="http://www.goodreads.com/book/show/10127019-the-lean-startup" target="_blank"><img src="/assets/books/lean-startup.jpeg" class="fade" /></a>
-	<a href="http://www.goodreads.com/book/show/6732019-rework" target="_blank"><img src="/assets/books/rework.png" class="fade" /></a>
-	<a href="http://www.goodreads.com/book/show/3892688-the-well-grounded-rubyist" target="_blank"><img src="/assets/books/well-grounded-rubyist.jpg" class="fade" /></a>
-	<a href="http://www.goodreads.com/book/show/7805.Pale_Fire" target="_blank"><img src="/assets/books/pale-fire.jpg" class="fade" /></a>
-	<a href="http://www.goodreads.com/book/show/13260184-the-4-disciplines-of-execution" target="_blank"><img src="/assets/books/4-disciplines-of-execution.jpg" class="fade" /></a>
-	<a href="http://www.goodreads.com/book/show/8576838-the-win-without-pitching-manifesto" target="_blank"><img src="/assets/books/win-without-pitching.jpg" class="fade" /></a>
+<div id="BookCovers" class="one-time">
+	<div><a href="http://www.goodreads.com/book/show/12609433-the-power-of-habit" target="_blank"><img src="/assets/books/power-of-habit.jpg" class="fade" /></a></div>
+	<div><a href="http://www.goodreads.com/book/show/16071764-lean-in" target="_blank"><img src="/assets/books/lean-in.jpg" class="fade" /></a></div>
+	<div><a href="http://www.goodreads.com/book/show/8520610-quiet" target="_blank"><img src="/assets/books/quiet.jpg" class="fade" /></a></div>
+	<div><a href="http://www.goodreads.com/book/show/10127019-the-lean-startup" target="_blank"><img src="/assets/books/lean-startup.jpeg" class="fade" /></a></div>
+	<div><a href="http://www.goodreads.com/book/show/6732019-rework" target="_blank"><img src="/assets/books/rework.png" class="fade" /></a></div>
+	<div><a href="http://www.goodreads.com/book/show/3892688-the-well-grounded-rubyist" target="_blank"><img src="/assets/books/well-grounded-rubyist.jpg" class="fade" /></a></div>
+	<div><a href="http://www.goodreads.com/book/show/7805.Pale_Fire" target="_blank"><img src="/assets/books/pale-fire.jpg" class="fade" /></a></div>
+	<div><a href="http://www.goodreads.com/book/show/13260184-the-4-disciplines-of-execution" target="_blank"><img src="/assets/books/4-disciplines-of-execution.jpg" class="fade" /></a></div>
+	<div><a href="http://www.goodreads.com/book/show/8576838-the-win-without-pitching-manifesto" target="_blank"><img src="/assets/books/win-without-pitching.jpg" class="fade" /></a></div>
 </div>
 
 ## Articles 
