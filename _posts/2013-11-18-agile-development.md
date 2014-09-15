@@ -22,7 +22,11 @@ What this very precise survey data and this Japanese anime character with a bean
 <br>
 Before witnessing Agile in action at Barrel, I thought “Agile” was another programming language I didn’t know about, and “Scrum” could only be something akin to armpit dirt. Actually, Agile, Scrum, Kanban, and Waterfall all describe _process, _as they are ways to strategically organize software development workflow in order to address certain needs of the client and of the internal team. Scrum and Kanban exist within a larger Agile category, which also includes other methods such as Extreme Programming (XP), Crystal, and Lean. Agile is typically contrasted with Waterfall.
 
+[![waterfall](/assets/blog/waterfall.png)](/assets/blog/waterfall.png)
+
 Barrel projects used to follow more of this **Waterfall model**, meaning that the project, say a website redesign, progressed sequentially (like a waterfall) over the stages of Strategy, UX, Design, Development, and System Admin/QA/Training and proceeded to the next phase only when the previous one was completed and reviewed. Waterfall projects typically require extensive planning and documentation upfront in order to estimate scope, timetables, and budgets.
+
+[![agile](/assets/blog/agile.png)](/assets/blog/agile.png)
 
 **Agile**, on the other hand, describes software development methods that generate earlier working software prototypes through several time-boxed iterations completed by cross-functional teams. Simply put, rather than internally handing off the project from stage to stage with little communication across disciplines, Agile methods bring together members of each function to work together at every interval. Project deliverables are broken up into smaller, more manageable chunks and divided into shorter, fixed-duration **iterations** typically lasting a few weeks. By tackling one iteration at a time, the cross-functional teams can produce an earlier working product for the client and thus adapt to changing needs, even quite late in the game.  
  
