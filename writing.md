@@ -2,9 +2,7 @@
 layout: page
 title: Writing
 ---
-This is a blog of everyday musings applied to the dialogues coursing around me: startups, tech, brands, career, arts, culture, life. 
-
-I think writing is wonderful. Very soon, I will write a meta post about the value of writing.     
+This is a blog of everyday musings applied to the dialogues coursing around me: brands, tech, design, startups, and consumer trends, mostly. 
 
 ## Archive
 
