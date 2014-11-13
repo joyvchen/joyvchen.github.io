@@ -2,9 +2,7 @@
 layout: page
 title: Reading 
 ---
-These are reads I am currently enjoying or have finished recently. Most of the things I like to read are related to tech, brands, entrepreneurship, global business, design, cities, psychology, arts, culture, productivity, or personal development. 
-
-(Basically I like a lot of things and am always curious about what's going on in the world.) 
+These are reads I am currently enjoying or have finished recently. Most of the things I like to read are related to tech, brands, startups, business, design, cities, psychology, arts, and culture.
 
 
 ## Books
