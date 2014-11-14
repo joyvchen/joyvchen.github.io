@@ -16,10 +16,9 @@ I started this blog because I've kept some form of a journal for as long as I ca
 
 I really love meeting new people over coffee, as well as finding ways I can help. If you're in NYC, <a href="mailto:chenjoyv@gmail.com" target="_blank">email me</a> and we could meet up to chat!  
 
-## Elsewhere
 
-* <a href="http://twitter.com/chenjoyv" target="_blank">Twitter</a> 
-* <a href="http://jeyohwhy.tumblr.com" target="_blank">Tumblr</a>  
-* <a href="http://linkedin.com/in/joyvchen" target="_blank">LinkedIn</a>
-* <a href="http://instagram.com/jeyohwhy" target="_blank">Instagram</a> 
-* <a href="http://github.com/joyvchen" target="_blank">GitHub</a> 
+<a href="http://twitter.com/chenjoyv" target="_blank" class="brandico fade"><span class="brandico-twitter"></span></a> 
+<a href="http://jeyohwhy.tumblr.com" target="_blank" class="brandico fade"><span class="brandico-tumblr"></span></a>
+<a href="http://linkedin.com/in/joyvchen" target="_blank" class="brandico fade"><span class="brandico-linkedin"></span></a> 
+<a href="http://instagram.com/jeyohwhy" target="_blank" class="brandico fade"><span class="brandico-instagram"></span></a>
+<a href="http://github.com/joyvchen" target="_blank" class="brandico fade"><span class="brandico-github"></span></a>

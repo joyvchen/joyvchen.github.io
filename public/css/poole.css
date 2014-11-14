@@ -497,3 +497,13 @@ a.pagination-item:hover {
   border-bottom: none;
   color: #ccc;
 }
+
+/* brandico */
+[class*="brandico-"]:before {
+  font-family: 'brandico', sans-serif;
+}
+
+.brandico {
+  border:none;
+  margin:4px;
+}

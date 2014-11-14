@@ -14,7 +14,6 @@ These are reads I am currently enjoying or have finished recently that I'd highl
 	<div><a href="http://www.goodreads.com/book/show/8520610-quiet" target="_blank"><img src="/assets/books/quiet.jpg" class="fade" /></a></div>
 	<div><a href="http://www.goodreads.com/book/show/10127019-the-lean-startup" target="_blank"><img src="/assets/books/lean-startup.jpeg" class="fade" /></a></div>
 	<div><a href="http://www.goodreads.com/book/show/6732019-rework" target="_blank"><img src="/assets/books/rework.png" class="fade" /></a></div>
-	<div><a href="http://www.goodreads.com/book/show/3892688-the-well-grounded-rubyist" target="_blank"><img src="/assets/books/well-grounded-rubyist.jpg" class="fade" /></a></div>
 	<div><a href="http://www.goodreads.com/book/show/7805.Pale_Fire" target="_blank"><img src="/assets/books/pale-fire.jpg" class="fade" /></a></div>
 	<div><a href="http://www.goodreads.com/book/show/13260184-the-4-disciplines-of-execution" target="_blank"><img src="/assets/books/4-disciplines-of-execution.jpg" class="fade" /></a></div>
 	<div><a href="http://www.goodreads.com/book/show/8576838-the-win-without-pitching-manifesto" target="_blank"><img src="/assets/books/win-without-pitching.jpg" class="fade" /></a></div>
