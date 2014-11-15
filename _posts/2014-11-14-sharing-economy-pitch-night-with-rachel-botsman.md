@@ -19,7 +19,7 @@ With the Uberfication of everything — that is, a rising mobile services market
 
 > “At its core, it’s about empowerment. It’s about empowering people to make meaningful connections, connections that are enabling us to rediscover a humanness that we’ve lost somewhere along the way, by engaging in marketplaces like Airbnb, like Kickstarter, like Etsy, that are built on personal relationships versus empty transactions.” 
 
-Another myth about the sharing economy is that startups are intentionally trying to attack incumbent industries; however, Rachel argues that this is simply “the new normal,” the result of a natural technological progression. She added that incumbents typically react in one of three ways: 
+Another myth about the sharing economy is that startups are intentionally trying to attack incumbent industries; however, Rachel argues that this is simply “the new normal,” the result of a natural technological progression. She added that incumbents typically react in one of three ways, suggesting that the third, more progressive approach is one that businesses should ideally adopt in the face of disruption: 
 
 1) **Ostriches**, who simply hope that the disruption will go away, or don’t acknowledge that the change is happening<br>
 2) **Fighters**, who try to bring new ideas down and protest the actions of disruptors with regulation <br>
