@@ -21,25 +21,25 @@ Finally, I was lucky to shadow on a day when there were several internal events 
 
 At the end of the day, Doug shared with me some advice for those like me hoping to break into product management, or otherwise becoming a better PM. I asked him about what kinds of skills I should focus on developing, what kind of company setting might be beneficial, and how to keep on improving my craft. Some takeaways from our conversation and following discussions: 
 
-<b>On breaking into product management and becoming a great product manager:</b>
+<i>On breaking into product management and becoming a great product manager:</i>
 
-<i>Data is king:</i> Product management can be approached from many different angles, and many PMs have a particular bent for engineering, business, design, or data. Doug suggested that a great route into product management is by learning as much about data as possible -- especially being able to write your own SQL queries, which means the PM won’t need to completely rely on an Analyst every time. Data is crucial for backing up product decisions, and it’s something that every good PM will need to understand how to analyze through and through. 
-
-
-<i>Know the user:</i> Another route to PM is to understand the user of a particular product as well as possible (i.e. excelling in a customer support role), because at the end of the day, PMs need to both understand user needs and have the data to support the decisions they make.  
+* <i>Data is king:</i> Product management can be approached from many different angles, and many PMs have a particular bent for engineering, business, design, or data. Doug suggested that a great route into product management is to learn as much about data as possible -- especially being able to write your own SQL queries, which means the PM won’t need to completely rely on an Analyst every time. Data is crucial for backing up product decisions, and it’s something that every good PM will need to understand how to analyze through and through. 
 
 
-<i>Keep learning and doing:</i> What I find exciting (and challenging) about the tech world is its constantly evolving nature, which forces PMs most of all to stay on top of industry happenings. And I’ve heard this from Doug and other PMs: the best product managers are beta testers for a lot of new products and obsessively read TechCrunch, Gizmodo, Lifehacker, etc. 
-
-<b>On product management company settings:</b>
-
-<i>Agency life:</i> If you’re considering product management roles at an agency, make sure that you’re enough of a true Product Owner. This means making decisions that will affect the product over the long term, looking to users for input, and iterating on that product. This can be tricky if you’re working closely with clients, who sometimes take on a heavier product ownership role, and if you work on a project-by-project basis, which means you might not return to an already-launched product.  
+* <i>Know the user:</i> Another route to PM is to understand the user of a particular product as well as possible (i.e. excelling in a customer support role), because at the end of the day, PMs need to both understand user needs and have the data to support the decisions they make.  
 
 
-<i>Startups vs. Large, Established Companies:</i> Choosing between working at a startup versus a large company will depend on personal preference. At a big company, you might be a very small part of a big machine, whereas you might have more product exposure at a small company. Both could afford exposure to “product,” however.  
+* <i>Keep learning and doing:</i> What I find exciting (and challenging) about the tech world is its constantly evolving nature, which forces PMs most of all to stay on top of industry happenings. And I’ve heard this from Doug and other PMs: the best product managers are beta testers for a lot of new products and obsessively read TechCrunch, Gizmodo, Lifehacker, etc. 
+
+<i>On product management company settings:</i>
+
+* <i>Agency life:</i> If you’re considering product management roles at an agency, make sure that you’re enough of a true Product Owner. This means making decisions that will affect the product over the long term, looking to users for input, and iterating on that product. This can be tricky if you’re working closely with clients, who sometimes take on a heavier product ownership role, and if you work on a project-by-project basis, which means you might not return to an already-launched product.  
 
 
-<i>NYC vs SF:</i> if you’re serious about tech, Silicon Valley has an unparalleled environment, opportunities, and people. Though Doug has himself thrived in the NYC digital community, he described the SF/Silicon Valley area as fertile soil for personal and professional development in tech. 
+* <i>Startups vs. Large, Established Companies:</i> Choosing between working at a startup versus a large company will depend on personal preference. At a big company, you might be a very small part of a big machine, whereas you might have more product exposure at a small company. Both could afford exposure to “product,” however.  
+
+
+* <i>NYC vs SF:</i> if you’re serious about tech, Silicon Valley has an unparalleled environment, opportunities, and people. Though Doug has himself thrived in the NYC digital community, he described the SF/Silicon Valley area as fertile soil for personal and professional development in tech. 
 
 **On Mentorship**
 
@@ -49,17 +49,17 @@ Want to experience mentorship? I did some searching for resources and opportunit
 
 **Resources**
 
-<a href="http://moccasin.me/" target="_blank">Project Moccasin</a>, the mentorship pairing program for product managers and designers, organized by Phoebe Espiritu (@femmebot). This was the program I participated in for this blog post!
+* <a href="http://moccasin.me/" target="_blank">Project Moccasin</a>, the mentorship pairing program for product managers and designers, organized by Phoebe Espiritu (@femmebot). This was the program I participated in for this blog post!
 
-<a href="http://mentoring.is/" target="_blank">/mentoring</a>, an open and distributed mentoring movement started by <a href="http://blog.dianakimball.com/" target="_blank">Diana Kimball</a>. 
+* <a href="http://mentoring.is/" target="_blank">/mentoring</a>, an open and distributed mentoring movement started by <a href="http://blog.dianakimball.com/" target="_blank">Diana Kimball</a>. 
 
 **Essays**
 
-<a href="https://medium.com/greylock-perspectives/building-mentor-relationships-694cec163b02/" target="_blank">Building Mentor Relationships</a>, by Dan Portillo
+* <a href="https://medium.com/greylock-perspectives/building-mentor-relationships-694cec163b02/" target="_blank">Building Mentor Relationships</a>, by Dan Portillo
 
-<a href="http://www.catehuston.com/blog/2014/06/27/some-thoughts-on-mentoring/" target="_blank">Some Thoughts on Mentoring</a> -- Cate Huston describes different kinds of mentor relationships to have
+* <a href="http://www.catehuston.com/blog/2014/06/27/some-thoughts-on-mentoring/" target="_blank">Some Thoughts on Mentoring</a> -- Cate Huston describes different kinds of mentor relationships to have
 
-<a href="https://themanual.org/read/issues/4/diana-kimball/article/" target="_blank">On Mentoring</a> -- Piece by /mentoring creator Diana Kimball on the delicate relationships that exist in mentorship. It was a tough, somewhat deflating read for me at first, but that’s because it’s so smart and piercingly perceptive.  
+* <a href="https://themanual.org/read/issues/4/diana-kimball/article/" target="_blank">On Mentoring</a> -- Piece by /mentoring creator Diana Kimball on the delicate relationships that exist in mentorship. It was a tough, somewhat deflating read for me at first, but that’s because it’s so smart and piercingly perceptive.  
 
-<a href="https://medium.com/thelist/have-some-coffee-9e468d958e77" target="_blank">Have some coffee, and stop worrying about finding a "mentor"</a> -- Piece by Ellen Chisa on how to make the most of “mentoring.” 
+* <a href="https://medium.com/thelist/have-some-coffee-9e468d958e77" target="_blank">Have some coffee, and stop worrying about finding a "mentor"</a> -- Piece by Ellen Chisa on how to make the most of “mentoring.” 
 
