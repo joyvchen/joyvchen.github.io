@@ -7,6 +7,7 @@ These are reads I am currently enjoying or have finished recently that I'd highl
 
 ## Books
 <div id="BookCovers" class="one-time">
+	<div><a href="http://www.goodreads.com/book/show/910704.C_line_Voyage_Au_Bout_De_La_Nuit" target="_blank"><img src="/assets/books/voyage-au-bout-de-la-nuit.JPG" class="fade" /></a></div>
 	<div><a href="http://www.goodreads.com/book/show/16158498-give-and-take" target="_blank"><img src="/assets/books/give-and-take.JPG" class="fade" /></a></div>
 	<div><a href="http://www.goodreads.com/book/show/18490568-age-of-ambition" target="_blank"><img src="/assets/books/age-of-ambition.jpg" class="fade" /></a></div>
 	<div><a href="http://www.goodreads.com/book/show/12609433-the-power-of-habit" target="_blank"><img src="/assets/books/power-of-habit.jpg" class="fade" /></a></div>
