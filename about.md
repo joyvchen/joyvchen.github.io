@@ -2,9 +2,9 @@
 layout: page
 title: Hey there, I'm Joy. 
 ---
-You'll find me in NYC working at the intersection of creativity and technology. Currently, I'm a Product Manager at <a href="http://www.prolificinteractive.com/" target="_blank">Prolific Interactive</a>, where I work with talented teams to build awesome mobile experiences. I've most recently worked on building better tools for organizers of <a href="http://creativemornings.com" target="_blank">CreativeMornings</a>, a global, monthly lecture series for the creative community; before that, I was a digital project manager at Barrel with a bent for websites and web apps. Before moving to the city, I studied French and art history at Yale. 
+You'll find me in NYC working at the intersection of creativity and technology. Currently, I'm a Product Manager at <a href="http://www.prolificinteractive.com/" target="_blank">Prolific Interactive</a>, where I work with talented teams to build awesome mobile experiences. I've most recently worked on improving online tools for organizers of <a href="http://creativemornings.com" target="_blank">CreativeMornings</a>, a global, monthly lecture series for the creative community; prior to that, I was a digital project manager at Barrel, shipping responsive websites and web apps. Before moving to the city, I studied French literature and art history at Yale. 
 
-Outside of my work, my current interests are coding, user research techniques, and long-distance running. I'm also an avid backpacker, regular art museum goer, coffee lover, <a href="http://fernygifs.tumblr.com" target="_blank">GIF collector</a>, and <a href="https://www.youtube.com/watch?v=ryDOy3AosBw&feature=kp" target="_blank">diehard 90s fan</a>. 
+I like: Internet culture, art museums, coffee, backcountry hiking/camping, world travel, good food, and <a href="https://www.youtube.com/watch?v=ryDOy3AosBw&feature=kp" target="_blank">the 90s</a>. 
 
 ## About This Site
 
