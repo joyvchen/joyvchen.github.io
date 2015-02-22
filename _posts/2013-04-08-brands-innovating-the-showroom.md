@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Brands Innovating the Showroom
+excerpt_separator: <!-- more -->
 ---
 
 *This post was originally published at [On Strategy](http://cargocollective.com/joychen/Brands-Innovating-the-Showroom).*

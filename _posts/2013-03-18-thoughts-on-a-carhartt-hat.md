@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Thoughts on a Carhartt Hat
+excerpt_separator: <!-- more -->
 ---
 
 *This post was originally published at [On Strategy](http://cargocollective.com/joychen/Thoughts-on-a-Carhartt-Hat).*

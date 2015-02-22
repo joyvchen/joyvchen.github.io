@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Starting Anew with Jekyll
+excerpt_separator: <!-- more -->
 ---
 
 It's about time for a new blog. 
