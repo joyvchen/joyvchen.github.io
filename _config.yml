@@ -4,6 +4,8 @@ pygments:         true
 
 # Permalinks
 permalink:        pretty
+relative_permalinks: true
+excerpt_separator: "<!-- more -->" 
 
 # Setup
 title:            Joy Chen
