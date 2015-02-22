@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Content-Driven Design
+excerpt_separator: <!-- more -->
 ---
 
 *This post was originally published at Cask, a blog on digital project management.*

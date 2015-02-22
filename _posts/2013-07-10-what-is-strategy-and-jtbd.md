@@ -1,6 +1,7 @@
 ---
 layout: post
 title: What is Strategy? (and JTBD)
+excerpt_separator: <!-- more -->
 ---
 
 *This post was originally published at [On Strategy](http://cargocollective.com/joychen/What-is-Strategy-and-JTBD).*

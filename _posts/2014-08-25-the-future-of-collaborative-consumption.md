@@ -1,6 +1,7 @@
 ---
 layout: post
 title: The Future of Collaborative Consumption
+excerpt_separator: <!-- more -->
 ---
 
 **Sharing is the New Buying**

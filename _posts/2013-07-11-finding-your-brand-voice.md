@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Finding Your Brand Voice
+excerpt_separator: <!-- more -->
 ---
 
 *This post was originally published at [On Strategy](http://cargocollective.com/joychen/Finding-Your-Brand-Voice).*

@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Reinventing Retail - A Bonobos Case Study
+excerpt_separator: <!-- more -->
 ---
 
 *This post was originally published at [On Strategy](http://cargocollective.com/joychen/Reinventing-Retail-A-Bonobos-Case-Study).*

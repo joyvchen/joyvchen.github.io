@@ -1,6 +1,7 @@
 ---
 layout: post
 title: What Instagram Video Can Offer Brands
+excerpt_separator: <!-- more -->
 ---
 
 *This post was originally published at [On Strategy](http://cargocollective.com/joychen/What-Instagram-Video-Can-Offer-Brands).*
