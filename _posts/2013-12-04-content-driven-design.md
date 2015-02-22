@@ -6,7 +6,7 @@ title: Content-Driven Design
 *This post was originally published at Cask, a blog on digital project management.*
 
 -----
-At Barrel, we’re working toward a **Content-Driven Design (CDD)** process. Rather than leaping straight from discovery phase into the visual design or development stages, we’re approaching our web projects with the content at the front of mind. Thinking about content earlier in the game allows us to be more strategic about our clients’ business goals and about the true driver of value on their websites: the information users seek.
+At Barrel, we’re working toward a **Content-Driven Design (CDD)** process. Rather than leaping straight from discovery phase into the visual design or development stages, we’re approaching our web projects with the content at the front of mind. Thinking about content earlier in the game allows us to be more strategic about our clients’ business goals and about the true driver of value on their websites: the information users seek.<!-- more -->
 
 I should define “content” and “design” before I start, since I’ve found they can mean a lot of things in the web design world. By content, I’m referring not to specific copy on a page, but to a higher-level awareness of the content types to be delivered. When I say design, I don’t mean the UX design or the information architecture; I’m talking about the final high-fidelity visual designs that are informed by the content strategy. We don’t get too granular about CDD – this isn’t about drawing a container box 500 pixels wide to fit a block of text that spans 400 pixels – rather, it’s an iterative framework that allows us to map out web design possibilities.
 
