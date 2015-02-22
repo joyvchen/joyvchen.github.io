@@ -7,7 +7,7 @@ About a month ago, I joined the rapidly growing <a href="http://prolificinteract
 
 **Agency Agile** 
 
-Coming from a waterfall-driven, process-heavy agency background, one aspect of Prolific that has really impressed me is our adherence to agile principles. Agency workflows are typically difficult to reconcile with agile methodology: with strict deadlines, fixed-bid invoicing, and clear requirements, it’s often a difficult sell to the client to be as flexible as agile usually demands. 
+Having experienced the challenges of introducing Scrum to a waterfall setting, one aspect of Prolific that has really impressed me is our adherence to agile principles. Agency workflows are typically difficult to reconcile with agile methodology: with strict deadlines, fixed-bid invoicing, and clear requirements, it’s often a difficult sell to the client to be as flexible as agile usually demands. 
 
 I’ve so far been really impressed with the level of agility our team is able to achieve, despite being an agency. Through daily builds distributed through Jenkins and HockeyApp to our individual mobile devices, we’re actually able to deliver functional software early and continuously. Every single day, we see progress in the app as it evolves from a bare-bones prototype to fully-designed working product.  
 
