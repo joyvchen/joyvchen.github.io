@@ -1,12 +1,11 @@
 ---
 layout: post
 title: Starting Anew with Jekyll
-excerpt_separator: <!-- more -->
 ---
 
 It's about time for a new blog. 
 
-In the interest of practicing some new languages and website building techniques, I decided to make the switch from WordPress to Jekyll, a Ruby-based static site generator. Simply put, Jekyll takes a template directory, runs it through markup language converters, and spits out a static HTML website. I've only been using it for a few days now, but I already love it. Here are a few reasons why.<!-- more -->
+In the interest of practicing some new languages and website building techniques, I decided to make the switch from WordPress to Jekyll, a Ruby-based static site generator. Simply put, Jekyll takes a template directory, runs it through markup language converters, and spits out a static HTML website. I've only been using it for a few days now, but I already love it. Here are a few reasons why.
 
 **Fast and Free**
 

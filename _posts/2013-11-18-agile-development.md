@@ -1,7 +1,6 @@
 ---
 layout: post
 title: Agile Development
-excerpt_separator: <!-- more -->
 ---
 
 *This post was originally published at Cask, a blog on digital project management.*
@@ -10,7 +9,7 @@ excerpt_separator: <!-- more -->
 
 ### A very accurate and very scientific experiment
 <br>
-In a fun mini-experiment, I provided subjects with a hypothetical HipChat question to probe the source of my own confusion surrounding Agile. When asked, “_If you didn’t already know the words ‘Scrum’ and ‘Kanban,’ what would you think the words meant?_,” people at Barrel provided some hilarious word associations. From a sample size of six (a notable 300% increase from the first blog post), five associated the word “Scrum” with filthy-sounding words, such as “a bug, or fungus,” “something on the bottom of your shoe,” or the notably more specific “armpit dirt,” as suggested by Betty (I’m not quite sure what “armpit dirt” is).<!-- more -->
+In a fun mini-experiment, I provided subjects with a hypothetical HipChat question to probe the source of my own confusion surrounding Agile. When asked, “_If you didn’t already know the words ‘Scrum’ and ‘Kanban,’ what would you think the words meant?_,” people at Barrel provided some hilarious word associations. From a sample size of six (a notable 300% increase from the first blog post), five associated the word “Scrum” with filthy-sounding words, such as “a bug, or fungus,” “something on the bottom of your shoe,” or the notably more specific “armpit dirt,” as suggested by Betty (I’m not quite sure what “armpit dirt” is).
 
 As for “Kanban,” people nearly unanimously reported that the word sounds like a Japanese food item – perhaps a sweet pastry of sorts – except for Jessie, who thoughtfully interpreted the word as, “a turban that is in a can and expands with water like one of those towels idk.” I give Jessie points for being imaginative. However, the most scientifically interesting was Zack’s response. Perhaps at a loss for words, or simply feeling inspired, Zack instead offered a pictorial representation of what the word “Kanban” meant for him personally:
 
