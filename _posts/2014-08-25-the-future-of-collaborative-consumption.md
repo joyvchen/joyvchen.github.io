@@ -7,6 +7,8 @@ title: The Future of Collaborative Consumption
 
 Having provided and surfed on couches abroad through CouchSurfing, booked a private Airbnb room, hailed an Uber driver, connected to the internet via Karma, funded Kickstarter projects, and rented a private study for a few hours through Breather, I've gotten by over the last few years owning little in the way of personal belongings. With the advent of rapid online communications, social networks, and near-instant payment systems, we're now able to share and repurpose idle resources as widely as ever. We've come a long way, but how did we get here? 
 
+<!-- more -->
+
 In the wake of the 2008 financial crisis, a growing concern around resource scarcity has caused consumers to turn to peer-to-peer sharing platforms to activate previously underutilized assets. Compound that factor with rampant urbanization and the fact that, for <a href="http://www.who.int/gho/urban_health/situation_trends/urban_population_growth_text/en/" target="_blank">the first time ever, the majority of the world lives in cities</a>; our densely connected populations favor mesh businesses and efficient solutions for making cities more habitable. Finally, we live in a time when trust between individual sellers and buyers is at an all-time high: having long cast away our fears of shopping and sharing personal information online, we're now readily willing to share goods and services with complete strangers. Such behaviors fundamentally redefine the buyer-seller relationship, and forward-thinking companies must engage in the participatory culture or risk disintermediation by C2C exchanges. 
 
 **Disrupt or Get Disrupted**

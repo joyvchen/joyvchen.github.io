@@ -5,13 +5,13 @@ pygments:         true
 # Permalinks
 permalink:        pretty
 relative_permalinks: true
-excerpt_separator: "<!-- more -->" 
+excerpt_separator: <!-- more --> 
 
 # Setup
 title:            Joy Chen
 tagline:          'The personal website of Joy Chen'
 url:              http://joyvchen.github.io
-paginate:         3
+paginate:         5
 baseurl:          /
 author:
   name:           'Joy Chen'
