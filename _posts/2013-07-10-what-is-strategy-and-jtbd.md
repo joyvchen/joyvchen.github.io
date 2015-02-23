@@ -9,6 +9,8 @@ title: What is Strategy? (and JTBD)
 
 When I started reading about strategy and attempting to define it for myself, I came across [a gem of a blog post by Mike Arauz of Undercurrent](http://undercurrent.com/post/what-is-strategy/), and I continue to refer back to it from time to time. I love this article for its meta-analysis of “strategy” (all the while loosely using the five steps he outlines), and for its perspicacity when it comes to what defines bad strategy. 
 
+<!-- more -->
+
 Arauz describes strategy as “the practice of figuring out the best way to get from here to there,” complete with a five-step plan to tackle any obstacle. With each challenge, the strategy you develop must encompass 
 
      1) awareness of where you are now, 

@@ -9,6 +9,8 @@ title: Finding Your Brand Voice
 
 In branding and content marketing, many strategists talk about the importance to maintain a consistent, well-defined brand voice, but few will actually point out what that might look like. Perhaps this is because brand voice is something rarely defined and more readily “felt.” This post is my attempt to understand the importance of tone in overall branding (and a general ode to the flexibility and complexity of the English language). 
 
+<!-- more -->
+
 **What is brand voice?**
 
 Let’s pick this phrase apart and consider each word on its own.
