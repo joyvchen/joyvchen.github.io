@@ -5,6 +5,8 @@ title: My First Month as a Prolific PM
 
 About a month ago, I joined the rapidly growing <a href="http://prolificinteractive.com" target="_blank">Prolific Interactive</a> team in DUMBO, Brooklyn as the newest Product Manager. It’s been a whirlwind to say the least -- I spent my first week on the job traveling to Philadelphia for a client kickoff, the new few onboarding to the project, and have since plunged right into the world of mobile technology. So, with several sprints under my belt, I’ve been able to reflect on these takeaways from my first few weeks on the job. 
 
+<!-- more --> 
+
 **Agency Agile** 
 
 Having experienced the challenges of introducing Scrum to a waterfall setting, one aspect of Prolific that has really impressed me is our adherence to agile principles. Agency workflows are typically difficult to reconcile with agile methodology: with strict deadlines, fixed-bid invoicing, and clear requirements, it’s often a difficult sell to the client to be as flexible as agile usually demands. 

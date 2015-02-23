@@ -9,6 +9,8 @@ title: Reinventing Retail - A Bonobos Case Study
 
 Previously, I wrote on [brands innovating the showroom](/2013/04/08/brands-innovating-the-showroom/) with a focus on e-commerce retailers turning to clever brick-and-mortar solutions. I've recently been eyeing another "e-tailer" that is making waves for its unique business model that embraces showrooming and its perceptive understanding of its consumer base: the online menswear label [Bonobos](http://bonobos.com). Bonobos is - like Warby Parker - one of the first in a larger trend of retailers attempting to hybridize the digital and physical shopping experience. I'm convinced that Bonobos will be a brand to watch and learn from in the near future, as it's doing a number of things right. 
 
+<!-- more -->
+
 **1) Bonobos is based off an understanding of the customer and what he wants**
 
 Bonobos excels because it initially focused not on product or on distribution, but on the customer first. One look at Bonobos's website and it's obvious which demographic it caters to: male Millennials who find the retail experience a hassle. After surveying its top customers, Bonobos managed to build the company around some key insights about this target audience, best represented by this equation:

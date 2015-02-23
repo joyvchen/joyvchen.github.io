@@ -5,6 +5,8 @@ title: A Day in the Life of a Product Manager
 
 A few weeks ago, I had the opportunity to participate in <a href="http://www.moccasin.me/" target="_blank">Project Moccasin</a>, a day-long product and design mentorship program organized by Phoebe (<a href="http://www.twitter.com/femmebot/" target="_blank">@femmebot</a>). Through the program, I was able to spend a day in the life of Etsy Product Manager <a href="http://www.douglashwang.com/" target="_blank">Doug Hwang</a>, shadowing him as he led standups, participated in retrospectives, and gathered requirements across various teams. Experiencing product management first-hand at a large, established tech company helped me better understand the role as adapted to different settings. I wanted to reflect a bit about this incredible mentorship opportunity, as well as share some advice that Doug passed along to me for aspiring Product Managers. 
 
+<!-- more -->
+
 **What was it like to shadow a Product Manager at Etsy?** 
 
 When I filled out the Project Moccasin pairing questionnaire, I was hoping to shadow in an environment that was vastly different from what I’d previously experienced in order to get a sense of the full spectrum of PM roles. This was definitely the case at Etsy. Though standup meetings, backlog discussions, retrospectives, and one-on-ones mostly took the same format as the ones I’d been used to, I was still surprised by the sheer scale at which these processes took place. 

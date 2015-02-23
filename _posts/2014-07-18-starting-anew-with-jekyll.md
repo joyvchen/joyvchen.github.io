@@ -7,6 +7,8 @@ It's about time for a new blog.
 
 In the interest of practicing some new languages and website building techniques, I decided to make the switch from WordPress to Jekyll, a Ruby-based static site generator. Simply put, Jekyll takes a template directory, runs it through markup language converters, and spits out a static HTML website. I've only been using it for a few days now, but I already love it. Here are a few reasons why.
 
+<!-- more -->
+
 **Fast and Free**
 
 Performance-wise, Jekyll is blazing fast. Since static HTML is generated before you deploy to a web server rather than during each web request, blogs on Jekyll load very quickly and can easily handle upticks in traffic with no problem. I've never had an issue with heavy traffic and don't anticipate one, but I do love being able to click through my site with astonishing speed and know I'll never need to think about optimizing load times. 
