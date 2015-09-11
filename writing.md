@@ -2,7 +2,7 @@
 layout: page
 title: Writing
 ---
-This is a blog of everyday musings applied to the dialogues coursing around me: brands, tech, design, startups, and consumer trends, mostly. 
+Sometimes, I write. 
 
 ## Archive
 

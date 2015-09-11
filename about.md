@@ -2,19 +2,19 @@
 layout: page
 title: Hey there, I'm Joy. 
 ---
-You'll find me in NYC working at the intersection of creativity and technology. Currently, I'm a Product Manager at <a href="http://www.prolificinteractive.com/" target="_blank">Prolific Interactive</a>, where I work with talented teams to build awesome mobile experiences. 
+You'll find me in NYC working at the intersection of strategy, design, and technology. Currently, I'm a Product Manager at <a href="http://www.prolificinteractive.com/" target="_blank">Prolific Interactive</a>, where I work with cross-functional teams to build awesome, user-centric mobile experiences. 
 
-I like: Internet culture, art museums, coffee, backcountry hiking/camping, the French language, world travel, good food, and <a href="https://www.youtube.com/watch?v=ryDOy3AosBw&feature=kp" target="_blank">the 90s</a>. 
+My current interests outside my professional work include bike rides,long runs, backcountry hiking/camping, the French language, and world travel. 
 
 ## About This Site
 
-This site was created with <a href="http://jekyllrb.com" target="_blank">Jekyll</a>, a simple, Ruby-powered static site generator that parses Liquid template files and Markdown content. It is hosted on <a href="http://pages.github.com" target="_blank">GitHub Pages</a>. (Here's a brief <a href="/2014/07/18/starting-anew-with-jekyll/">ode</a> I've written on the wonders of Jekyll.) 
+I started this blog because I've kept some form of a journal for as long as I can remember. I believe writing makes you a clearer thinker, and I've always admired those who could express themselves eloquently with the written word.
 
-I started this blog because I've kept some form of a journal for as long as I can remember. I believe writing makes you a clearer thinker, and I've always deeply admired those who could express themselves eloquently with the written word.
+This site was created with <a href="http://jekyllrb.com" target="_blank">Jekyll</a>, a simple, Ruby-powered static site generator that parses Liquid template files and Markdown content. It is hosted on <a href="http://pages.github.com" target="_blank">GitHub Pages</a>. (Here's a brief <a href="/2014/07/18/starting-anew-with-jekyll/">ode</a> I've written on the wonders of Jekyll.) 
 
 ## Let's Talk
 
-I really love meeting new people over coffee, as well as finding ways I can help. If you're in NYC, <a href="mailto:chenjoyv@gmail.com" target="_blank">email me</a> and we could meet up to chat!  
+I enjoy meeting new people over coffee, as well as finding ways I can help. If you're in NYC, <a href="mailto:chenjoyv@gmail.com" target="_blank">email me</a> and we could meet up to chat!  
 
 
 <a href="http://twitter.com/chenjoyv" target="_blank" class="brandico fade"><span class="brandico-twitter"></span></a> 
