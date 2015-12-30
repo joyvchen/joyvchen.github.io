@@ -1,25 +1,28 @@
 # Dependencies
 markdown:         redcarpet
-pygments:         true
+highlighter:      pygments
 
 # Permalinks
 permalink:        pretty
-relative_permalinks: true
 excerpt_separator: <!-- more --> 
 
 # Setup
 title:            Joy Chen
 tagline:          'The personal website of Joy Chen'
 url:              http://joyvchen.github.io
-paginate:         5
 baseurl:          /
 author:
   name:           'Joy Chen'
   url:            https://twitter.com/chenjoyv
   email:          chenjoyv@gmail.com
+gems: [jekyll-paginate]
+paginate: 5
+paginate_path: "page:num"
 
 # Custom vars
 version:          1.0.0
 github:
   repo:           https://github.com/joyvchen
 pages_list:       {'About':'/about','Writing':'/writing','Portfolio':'/portfolio'}
+
+
