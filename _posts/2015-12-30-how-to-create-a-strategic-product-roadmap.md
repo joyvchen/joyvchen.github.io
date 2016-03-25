@@ -1,6 +1,7 @@
 ---
 layout: post
 title: How To Create A Strategic Product Roadmap
+tags: [product-management]
 ---
 
 *This post was cross-published on Prolific Interactive's company blog, <a href="http://blog.prolificinteractive.com/2016/01/18/how-to-create-a-strategic-product-roadmap/" target="_blank">Prolific Thoughts</a>.*

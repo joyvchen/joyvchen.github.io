@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Content-Driven Design
+tags: [design]
 ---
 
 *This post was originally published at Cask, a blog on digital project management.*

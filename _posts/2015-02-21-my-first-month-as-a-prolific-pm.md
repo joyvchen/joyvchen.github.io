@@ -1,6 +1,7 @@
 ---
 layout: post
 title: My First Month as a Prolific PM
+tags: [product-management]
 ---
 
 About a month ago, I joined the rapidly growing <a href="http://prolificinteractive.com" target="_blank">Prolific Interactive</a> team in DUMBO, Brooklyn as the newest Product Manager. It’s been a whirlwind to say the least -- I spent my first week on the job traveling to Philadelphia for a client kickoff, the new few onboarding to the project, and have since plunged right into the world of mobile technology. So, with several sprints under my belt, I’ve been able to reflect on these takeaways from my first few weeks on the job. 
