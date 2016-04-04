@@ -4,7 +4,7 @@ title: Hey there, I'm Joy.
 ---
 You'll find me in NYC working at the intersection of strategy, design, and technology. Currently, I'm a Sr. Product Manager at <a href="http://www.prolificinteractive.com/" target="_blank">Prolific Interactive</a>, where I work with cross-functional teams to build awesome, user-centric mobile experiences. 
 
-My current interests outside my professional work include cycling, running, the outdoors, travel, and the French language. 
+Outside of work, I dig <a href="https://www.strava.com/athletes/joychen" target="_blank">cycling</a>, running, <a href="https://www.instagram.com/p/4wlqQlF13K/?taken-by=jeyohwhy" target="_blank">the outdoors</a>, <a href="https://www.instagram.com/p/9NptuiF14C/?taken-by=jeyohwhy" target="_blank">travel</a>, and the French language. 
 
 ## Let's Talk
 
