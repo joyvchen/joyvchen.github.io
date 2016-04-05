@@ -2,7 +2,7 @@
 layout: page
 title: Portfolio
 ---
-I've been lucky enough to be a part of some great collaborations with incredibly talented people. Here are just a few of my favorite work and personal projects.
+I've been lucky enough to be a part of some great collaborations with incredibly talented people. Here are just a few of my favorite work projects.
 
 
 ## Lilly Pulitzer iOS App<br /> 
