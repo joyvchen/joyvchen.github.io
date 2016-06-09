@@ -15,7 +15,9 @@ In a fun mini-experiment, I provided subjects with a hypothetical HipChat questi
 
 As for “Kanban,” people nearly unanimously reported that the word sounds like a Japanese food item – perhaps a sweet pastry of sorts – except for Jessie, who thoughtfully interpreted the word as, “a turban that is in a can and expands with water like one of those towels idk.” I give Jessie points for being imaginative. However, the most scientifically interesting was Zack’s response. Perhaps at a loss for words, or simply feeling inspired, Zack instead offered a pictorial representation of what the word “Kanban” meant for him personally:
 
-[![anpanmanbread](/assets/blog/anpanmanbread.jpg)](/assets/blog/anpanmanbread.jpg)_<div class="caption">Anpanman giving someone a piece of his mind.</div>_
+[![anpanmanbread](/assets/blog/anpanmanbread.jpg)](/assets/blog/anpanmanbread.jpg)
+
+<div class="caption">Anpanman giving someone a piece of his mind.</div>
 
 What this very precise survey data and this Japanese anime character with a bean paste pastry for a head both suggest is that the Agile jargon is inherently confusing, misleading, and sometimes makes me hungry. Luckily, I’m able to watch the Barrel team practice Agile processes every day, so I’m gaining a much deeper understanding of the techniques involved and vocabulary used. This blog post documents my findings along the way.  
  
@@ -40,8 +42,9 @@ _Key features of Agile:_
 - Continuous client/stakeholder involvement and communication from the very beginning
 - Tasks broken up and prioritized into increments that require minimal upfront planning
 
- 
+
 ### What is Scrum?
+
 <br>
 At Barrel, we are attempting to implement more Agile methods in projects, with a general tendency toward Scrum. Scrum is one of the most popular Agile development frameworks in use today. Scrum not only follows Agile guiding principles but also comes with its own set of Scrum-specific roles and artifacts.
 
@@ -52,7 +55,9 @@ Scrum prescribes very specific roles to manage the various tasks involved in the
 
 There is also a **Scrum Master **who facilitates the Scrum rules and ensures that the team reaches the sprint goals (iterations in Scrum are called **sprints**). Scrum Master typically leads daily scrums and ensures everyone has what they need to be productive during the workday.
 
-[![ScrumLee](/assets/blog/ScrumLee.jpg)](/assets/blog/ScrumLee.jpg)_<div class="caption">Lee the Scrumlord – er, Scrum Master – leading one of our daily Scrums at our task board.</div>_
+[![ScrumLee](/assets/blog/ScrumLee.jpg)](/assets/blog/ScrumLee.jpg)
+
+<div class="caption">Lee the Scrumlord – er, Scrum Master – leading one of our daily Scrums at our task board.</div>
  
 
 **Product Backlog and Planning Poker**  
@@ -80,11 +85,12 @@ One defining characteristic of Scrum is that progress can be measured and predic
 
 Our Scrum Master has been tracking our velocity using a **burn-down chart**, which shows Remaining Work/Effort Required over Time. Ideally, the graph shows a downward slope as the amount of work remaining decreases. The slope indicates a velocity, which can be used to estimate a final delivery date. It’s Agile because if the Scrum team doesn’t complete as many tasks as projected, it can adapt by restructuring future sprints. The Scrum team moves through sprint after sprint before finally delivering the product when all features on the Product Backlog have been addressed.
 
-[![ScrumZack](/assets/blog/ScrumZack.jpg)](/assets/blog/ScrumZack.jpg)_<div class="caption">Zack, a true scrumbag if I’ve ever seen one.</div>_
+[![ScrumZack](/assets/blog/ScrumZack.jpg)](/assets/blog/ScrumZack.jpg)
 
-<br>
+<div class="caption">Zack, a true scrumbag if I’ve ever seen one.</div>
+
 ### What about the Japanese bean pastries?
-<br>
+
 Scrum and Kanban are two implementations of Agile methodology, each with its own set of guiding practices. At Barrel, we practice quite a bit of Scrum and not so much Kanban (though as Agile methods attempting to achieve the same thing, there is much overlap between the two). We do use a task board for visualizing workflow, as in Kanban, though the rules of the Scrum task board are not exactly the same.   
 
 One of the differences between the two is that in Kanban, there is a directly imposed limit on the numbers of tasks in queue, reducing the amount of Work in Progress (WIP). In Scrum, task items flow rather freely in the workflow, but the WIP is indirectly limited by the number of tasks set for each sprint/iteration. Kanban is also relatively less prescriptive (fewer rules to follow) than Scrum: time-boxed iterations, cross-functionality of teams, estimation/prioritization, and prescribed leadership roles are all optional in Kanban, and a Kanban board can take in more task items at any point as long as capacity is available. In Scrum, there must be time-boxed iterations with set tasks within each one, and there are assigned roles of Scrum Master and Product Owner.  

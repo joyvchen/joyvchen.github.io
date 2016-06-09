@@ -8,7 +8,9 @@ When my company purchased a new Apple Pencil and iPad Pro for our QA device lab,
 
 As I drafted my subject, I also recognized several parallels between my approaches to drawing and product management.
 
-[![Steve Jobs](/assets/blog/SteveJobsDrawing.png)](/assets/blog/SteveJobsDrawing.png)_<div class="caption">Progression from sketch to finished drawing: laying out basic shapes, filling in the details, and refining shading and proportions.</div>_ 
+[![Steve Jobs](/assets/blog/SteveJobsDrawing.png)](/assets/blog/SteveJobsDrawing.png)
+
+<div class="caption">Progression from sketch to finished drawing: laying out basic shapes, filling in the details, and refining shading and proportions.</div>
 
 <!-- more -->
 

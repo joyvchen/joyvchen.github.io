@@ -21,7 +21,9 @@ Always start with your goals. The most important aspect of product management is
 
 _Business Goals:_ If you’ve already worked with your product team to create a set of business goals, consider revisiting them for your next project. Begin by outlining general business objectives and work your way to the more specific goals. Drawing from the framework below, identify broader goals, drill into a few specific KPIs that will measure the success of the product, and write down a figure your team will target.
 
-[![Roadmapping - Business Goals](/assets/blog/BlogPost_Roadmapping_Goals.png)](/assets/blog/BlogPost_Roadmapping_Goals.png)_<div class="caption">A recent example of the business goals framework, inspired by [Avinash Kaushik’s Web Analytics framework.](http://www.kaushik.net/avinash/web-analytics-101-definitions-goals-metrics-kpis-dimensions-targets/).</div>_
+[![Roadmapping - Business Goals](/assets/blog/BlogPost_Roadmapping_Goals.png)](/assets/blog/BlogPost_Roadmapping_Goals.png)
+
+<div class="caption">A recent example of the business goals framework, inspired by <a href="http://www.kaushik.net/avinash/web-analytics-101-definitions-goals-metrics-kpis-dimensions-targets/" target="_blank">Avinash Kaushik’s Web Analytics framework.</a></div>
 
 _User Goals:_ Team up with a UX Researcher to observe the product’s target audience in the field and leverage initial user interviews to uncover behaviors and pain points. Notice how users are currently using existing solutions to address their needs, and identify what it is the target user is ultimately trying to accomplish.
 

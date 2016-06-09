@@ -256,7 +256,9 @@ img {
 
 .caption {
   font-size: .75rem;
+  font-style: italic;
   text-align: center;
+  padding: 0px 60px 20px;
 }
 
 #BookCovers a {

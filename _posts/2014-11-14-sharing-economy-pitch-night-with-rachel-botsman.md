@@ -9,7 +9,9 @@ The other night, I had the opportunity to see Rachel Botsman, co-author of <a hr
 
 She’s spoken on <a href="http://www.ted.com/talks/rachel_botsman_the_case_for_collaborative_consumption/" target="_blank">TED</a> before, but I thought that this fireside chat with Wrede Petersmeyer of Airbnb offered a more intimate setting to clarify some points about collaborative consumption, not to mention it was pretty neat to sit just a few feet in front of a thought leader I admire. At the end, Katie Bolin of Spark Capital also led a startup pitch session, featuring local NYC early-stage startups operating within the space: <a href="http://www.farmigo.com" target="_blank">Farmigo</a>, <a href="http://www.gopicsell.com" target="_blank">PicSell</a>, <a href="http://www.sailo.co" target="_blank">Sailo</a>, <a href="http://www.sparehire.com" target="_blank">SpareHire</a>, <a href="http://www.elevenjames.com" target="_blank">Eleven James</a>, and <a href="http://www.sparechair.me" target="_blank">SpareChair</a>. Incredibly cool to see some local companies participate in this larger global movement. 
 
-[![Rachel Botsman speaking at NY Sharing Economy Pitch Night](/assets/blog/rachelbotsman.jpg)](/assets/blog/rachelbotsman.jpg)_<div class="caption">Rachel Botsman and Wrede Petersmeyer speaking at NY Sharing Economy Pitch Night.<br> Photo by [Sanna](http://www.twitter.com/sannashairflip).</div>_
+[![Rachel Botsman speaking at NY Sharing Economy Pitch Night](/assets/blog/rachelbotsman.jpg)](/assets/blog/rachelbotsman.jpg)
+
+<div class="caption">Rachel Botsman and Wrede Petersmeyer speaking at NY Sharing Economy Pitch Night. Photo by <a href="http://www.twitter.com/sannashairflip" target="_blank">Sanna</a>.</div>
 
 **What is Collaborative Consumption?**
 
