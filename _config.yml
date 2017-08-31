@@ -10,7 +10,7 @@ excerpt_separator: <!-- more -->
 title:            Joy Chen
 tagline:          'The personal website of Joy Chen'
 url:              http://joyvchen.github.io
-baseurl:          ""
+baseurl:          /
 author:
   name:           'Joy Chen'
   url:            https://twitter.com/chenjoyv
