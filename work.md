@@ -1,8 +1,8 @@
 ---
 layout: page
-title: Portfolio
+title: Work
 ---
-I've been lucky to be a part of some great collaborations with incredibly talented people. Here are just a few of my favorite work projects.
+I've been lucky to be a part of some great collaborations with incredibly talented people. Here are just a few of my favorite projects.
 
 ## Edible Arrangements Mobile Design 
 <i>iOS, Android, Mobile Web, Desktop Web</i>

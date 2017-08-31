@@ -23,6 +23,6 @@ paginate_path: "page:num"
 version:          1.0.0
 github:
   repo:           https://github.com/joyvchen
-pages_list:       {'About':'/about','Writing':'/writing','Portfolio':'/portfolio'}
+pages_list:       {'About':'/about','Blog':'/blog','Work':'/work'}
 
 

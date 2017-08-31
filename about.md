@@ -2,16 +2,17 @@
 layout: page
 title: Hey there, I'm Joy. 
 ---
-You'll find me in NYC working at the intersection of strategy, design, and technology. Currently, I'm a Sr. Product Manager at <a href="http://www.prolificinteractive.com/" target="_blank">Prolific Interactive</a>, where I work with cross-functional teams to build awesome, user-centric mobile experiences. 
 
-Outside of work, I dig <a href="https://www.strava.com/athletes/joychen" target="_blank">cycling</a>, running, <a href="https://www.instagram.com/p/4wlqQlF13K/?taken-by=jeyohwhy" target="_blank">the outdoors</a>, <a href="https://www.instagram.com/p/9NptuiF14C/?taken-by=jeyohwhy" target="_blank">travel</a>, and the French language. 
+You'll find me in NYC working at the intersection of strategy, design, and technology. Currently, I'm a Senior Product Manager at <a href="http://www.prolificinteractive.com/" target="_blank">Prolific Interactive</a>, where I work with cross-functional teams to build engaging, user-centric mobile experiences. 
 
-## Let's Talk
+<p>Outside of my work, I love <a href="https://www.strava.com/athletes/joychen" target="_blank">cycling</a>, running, <a href="https://www.instagram.com/p/BWGoROHA8xy/?taken-by=jeyohwhy" target="_blank">the outdoors</a>, <a href="https://www.instagram.com/p/9NptuiF14C/?taken-by=jeyohwhy" target="_blank">travel</a>, <a href="https://www.instagram.com/p/BN4mNKVAdCc/?taken-by=jeyohwhy" target="_blank">modern art</a>, music, and the French language. 
+</p>
 
-I enjoy meeting new people over coffee, as well as finding ways I can help. If you're in NYC, <a href="mailto:chenjoyv@gmail.com" target="_blank">email me</a> and we could meet up to chat!  
+<a href="http://artgallery.yale.edu/collections/objects/50128" target="_blank"><img src="/assets/art/Duchamp_TuM.jpg" alt="Marcel Duchamp - Tu m'" /></a>
+<div class="art-caption">Marcel Duchamp, <i>Tu m'</i>, 1918. Oil on canvas, with bottlebrush, safety pins, and bolt, 69.8 x 303 cm. Yale University Art Gallery, New Haven.</div>
+<a href="mailto:chenjoyv@gmail.com" target="_blank" class="entypo fade"><span class="entypo-mail"></span></a>
+<a href="http://twitter.com/chenjoyv" target="_blank" class="entypo fade"><span class="entypo-twitter"></span></a>
+<a href="http://linkedin.com/in/joyvchen" target="_blank" class="entypo fade"><span class="entypo-linkedin"></span></a>
+<a href="http://instagram.com/jeyohwhy" target="_blank" class="entypo fade"><span class="entypo-instagrem"></span></a>
 
-
-<a href="http://twitter.com/chenjoyv" target="_blank" class="brandico fade"><span class="brandico-twitter"></span></a> 
-<a href="http://jeyohwhy.tumblr.com" target="_blank" class="brandico fade"><span class="brandico-tumblr"></span></a>
-<a href="http://linkedin.com/in/joyvchen" target="_blank" class="brandico fade"><span class="brandico-linkedin"></span></a> 
-<a href="http://instagram.com/jeyohwhy" target="_blank" class="brandico fade"><span class="brandico-instagram"></span></a>
+<br><br><br><br><br>

@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Writing
+title: Blog
 ---
 A collection of writings on product management, design, technology, startups, and brands. 
 

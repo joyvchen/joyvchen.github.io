@@ -261,6 +261,12 @@ img {
   padding: 0px 60px 20px;
 }
 
+.art-caption {
+  font-size: .5rem;
+  text-align: center;
+  padding: 0px 0px 20px;
+}
+
 #BookCovers a {
   border: none;
 }
@@ -351,7 +357,7 @@ tbody tr:nth-child(odd) th {
 .masthead {
   padding-top:    1rem;
   padding-bottom: 1rem;
-  margin-bottom: 3rem;
+  margin-bottom: 2.0rem;
 }
 .masthead-title {
   margin-top: 0;
@@ -500,12 +506,12 @@ a.pagination-item:hover {
   color: #ccc;
 }
 
-/* brandico */
-[class*="brandico-"]:before {
-  font-family: 'brandico', sans-serif;
+/* entypo */
+[class*="entypo-"]:before {
+  font-family: 'entypo', sans-serif;
 }
 
-.brandico {
+.entypo {
   border:none;
   margin:4px;
 }
